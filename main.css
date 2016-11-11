@@ -1,0 +1,25 @@
+#sallyPic {
+	padding: 0;
+}
+#contactInfo {
+	text-align: center;
+	margin-bottom: 0;
+	margin-top: 15%;
+	padding-bottom: 0;
+	font-size: 26px;
+}
+#contactHead {
+	font-size: 34px;
+}
+body {
+	background-color: #CFDFFF;
+}
+div {
+	background-color: white;
+}
+.company {
+	font-size: 18px;
+}
+#employSection {
+	padding-bottom: 50px;
+}
